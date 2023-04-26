@@ -1,0 +1,37 @@
+:root {
+    background-color: #1d1d1d;
+}
+
+p {
+    font: 18px Arial, sans-serif;
+    color: #FBC902;
+}
+
+label {
+    font: 18px Arial, sans-serif;
+    color: #FBC902;
+}
+
+a {
+    font: 18px Arial, sans-serif;
+    color: #FBC902;
+}
+
+h1 {
+    font: 42px Arial, sans-serif;
+    color: #000;
+}
+
+div {
+    text-align: left;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+  }
+  canvas {
+    width:100vw;
+    height:100vh;
+  }
+
